@@ -1,0 +1,151 @@
+.m{
+margin-left: 80px;
+}
+
+.m1{
+margin-left: 220px;
+}
+
+.primerafila{
+height: 80px;
+background-color:green;
+}
+.pf1{
+    width: 140px;
+    background-color: green;
+    text-align: center;
+}
+.pf2{
+    width: 140px;
+    background-color: green;
+    text-align: center;    
+}
+.pf3{
+    width: 140px;
+    background-color: green;
+    text-align: center;   
+}
+.pf4{
+    width: 140px;
+    background-color: green;
+    text-align: center;    
+}
+.pf5{
+    width: 140px;
+    background-color: green;
+    text-align: center;    
+}
+.pf6{
+    width: 140px;
+    background-color: green;
+    text-align: center;    
+}
+
+.segundafila{
+margin: 140px;
+width: 140px;    
+height: 80px;
+}
+.sf1{
+    width: 140px;
+    background-color: black;
+    text-align: center;    
+}
+.sf2{
+    width: 140px;
+    background-color: teal;
+    text-align: center;    
+}
+.sf3{
+    width: 140px;
+    background-color: blue;
+    text-align: center;    
+}
+.sf4{
+    width: 140px;
+    background-color: navy;
+    text-align: center;    
+}
+.sf5{
+    width: 140px;
+    background-color: lime;
+    text-align: center;    
+}
+.sf6{
+    width: 140px;
+    background-color: white;
+    text-align: center;    
+}
+
+.tercerafila{
+    margin: 140px;
+    width: 140px;    
+    height: 80px;
+    }
+    .tf1{
+        width: 140px;
+        background-color: purple;
+        text-align: center;    
+    }
+    .tf2{
+        width: 140px;
+        background-color: yellow;
+        text-align: center;    
+    }
+    .tf3{
+        width: 140px;
+        background-color: olive;
+        text-align: center;    
+    }
+    .tf4{
+        width: 140px;
+        background-color: red;
+        text-align: center;    
+    }
+    .tf5{
+        width: 140px;
+        background-color: black;
+        text-align: center;    
+    }
+    .tf6{
+        width: 140px;
+        background-color: grey;
+        text-align: center;    
+    }
+
+    .cuartafila{
+        margin: 140px;
+        width: 140px;    
+        height: 80px;
+        }
+        .cf1{
+            width: 140px;
+            background-color: olive;
+            text-align: center;    
+        }
+        .cf2{
+            width: 140px;
+            background-color: red;
+            text-align: center;    
+        }
+        .cf3{
+            width: 140px;
+            background-color: fuchsia;
+            text-align: center;    
+        }
+        .cf4{
+            width: 140px;
+            background-color: green;
+            text-align: center;    
+        }
+        .cf5{
+            width: 140px;
+            background-color: green;
+            text-align: center;    
+        }
+        .cf6{
+            width: 140px;
+            background-color: green;
+            text-align: center;    
+        }
+            
